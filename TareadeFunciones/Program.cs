@@ -8,6 +8,7 @@ namespace EstructuraRepetitivaWhile1
 {
     class Program
     {
+        // Preparar un ejercicio que obtenga una funcion y un condicional dentro
         static void Main(string[] args)
         {
             Console.WriteLine("Los numeros son: ");
